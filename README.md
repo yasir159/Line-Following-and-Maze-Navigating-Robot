@@ -1,3 +1,7 @@
 # Line-Following-and-Maze-Navigating-Robot
 
-Copy paste the code in the files here
+To upload code:
+  1. Open the desired file
+  2. Click edit
+  3. Paste code in the file
+  4. Commit changes
